@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.2.16)  16 FEB 2024 20:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.2.16)  16 FEB 2024 20:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1030,65 +1030,47 @@ l.104 \item If $A
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
 ! Undefined control sequence.
-<recently read> \rupee 
-                       
-l.202 \item A typist charges $\rupee
-                                     145$ for typing $10$ English and $3$ Hi...
+l.202 \item A typist charges \rupee
+                                    $145$ for typing $10$ English and $3$ Hi...
 
 ? 
 ! Undefined control sequence.
-<recently read> \rupee 
-                       
-l.202 ... English and $10$ Hindi pages are $\rupee
-                                                   180$. Using matrices, fin...
+l.202 ...$ English and $10$ Hindi pages are \rupee
+                                                   $180$. Using matrices, fi...
 
 ? 
 ! Undefined control sequence.
-<recently read> \rupee 
-                       
-l.202 ...tely. However typist charged only $\rupee
-                                                   2$ per page from a poor s...
+l.202 ...ately. However typist charged only \rupee
+                                                   $2$ per page from a poor ...
 
 ? 
 ! Undefined control sequence.
-<recently read> \rupee 
-                       
-l.204 ...rson wants to invest an amount of $\rupee
-                                                   50,000$. His broker recom...
+l.204 ...erson wants to invest an amount of \rupee
+                                                   $50,000$. His broker reco...
 
 ? 
 ! Undefined control sequence.
-<recently read> \rupee 
-                       
-l.204 ...nt. He decides to invest at least $\rupee
-                                                   20,000$ in bond 'A' and a...
+l.204 ...unt. He decides to invest at least \rupee
+                                                   $20,000$ in bond '$A$' an...
 
 ? 
 ! Undefined control sequence.
-<recently read> \rupee 
-                       
-l.204 ... 20,000$ in bond 'A' and at least $\rupee
-                                                   10,000$ in bond 'B'. He a...
+l.204 ...20,000$ in bond '$A$' and at least \rupee
+                                                   $10,000$ in bond '$B$'. H...
 
 ? 
 [3] (./main.aux)
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 152DC14D05E8CD55CB4F86CD14C5025D;847
-(rerunfilecheck)             After:  00D12AD1B13823A9826AB8EA1D020743;862.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 00D12AD1B13823A9826AB8EA1D020743;862.
  ) 
 Here is how much of TeX's memory you used:
- 24386 strings out of 477539
- 447858 string characters out of 5830269
+ 24385 strings out of 477539
+ 447853 string characters out of 5830269
  1877330 words of memory out of 5000000
- 44209 multiletter control sequences out of 15000+600000
+ 44208 multiletter control sequences out of 15000+600000
  519535 words of font info for 61 fonts, out of 8000000 for 9000
  264 hyphenation exceptions out of 8191
- 84i,20n,80p,486b,549s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,20n,80p,498b,549s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
@@ -1101,7 +1083,7 @@ msfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (3 pages, 157546 bytes).
+Output written on main.pdf (3 pages, 157423 bytes).
 PDF statistics:
  169 PDF objects out of 1000 (max. 8388607)
  136 compressed objects within 2 object streams
